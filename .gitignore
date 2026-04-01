@@ -1,0 +1,6 @@
+*.lnk
+*.exe
+
+# Optional local/temporary files
+Thumbs.db
+Desktop.ini
